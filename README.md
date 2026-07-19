@@ -1,5 +1,4 @@
-# Solar System Gravity Lock — Student Site
+# Solar System Gravity Lock — student site
 
-Public student escape-room site for classroom use.
-
-Teacher guides, answer keys, and printable PDFs are **not** included here.
+Public GitHub Pages student escape room only.
+Teacher guides, answer keys, and digit maps are not included.
